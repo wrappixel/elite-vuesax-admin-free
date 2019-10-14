@@ -1,4 +1,5 @@
-# my-project
+# elite-vuesax-admin-free
+
 
 ## Project setup
 ```
