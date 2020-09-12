@@ -1,3 +1,4 @@
+<!-- this version has no light version -->
 # elite-vuesax-admin-free
 
 <h4><a href="https://www.wrappixel.com/demos/free-admin-templates/elite-vuesax-vuejs-free/#/starterkit">Free Version Demo Link</a></h4>
